@@ -1,0 +1,113 @@
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\FinalMusda.exe.config
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\FinalMusda.exe
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\FinalMusda.pdb
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\AForge.dll
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\Emgu.CV.World.dll
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\EntityFramework.dll
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\MaterialSkin.dll
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\MetroFramework.Design.dll
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\MetroFramework.dll
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\OpenTK.dll
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\Transitions.dll
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\ZedGraph.dll
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\AForge.xml
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\Emgu.CV.World.xml
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\EntityFramework.xml
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\OpenTK.xml
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\ZedGraph.xml
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\obj\Debug\FinalMusda.AddIntructor.resources
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\obj\Debug\FinalMusda.AddNew.resources
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\obj\Debug\FinalMusda.ChildrenCorner.resources
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\obj\Debug\FinalMusda.line.resources
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\obj\Debug\FinalMusda.InstructorDetails.resources
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\obj\Debug\FinalMusda.iTechMessageBox.resources
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\obj\Debug\FinalMusda.Main.resources
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\obj\Debug\FinalMusda.MainInterface.resources
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\obj\Debug\FinalMusda.Panel.panelTwo.resources
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\obj\Debug\FinalMusda.pnlTwo.resources
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\obj\Debug\FinalMusda.Properties.Resources.resources
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\obj\Debug\FinalMusda.csproj.GenerateResource.Cache
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\obj\Debug\FinalMusda.exe
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\obj\Debug\FinalMusda.pdb
+C:\Users\Cyril Tumbo\documents\visual studio 2015\Projects\FinalMusda\FinalMusda\obj\Debug\FinalMusda.csprojResolveAssemblyReference.cache
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\FinalMusda.exe.config
+E:\PRODATA\FinalMusda\FinalMusda\obj\Debug\FinalMusda.exe
+E:\PRODATA\FinalMusda\FinalMusda\obj\Debug\FinalMusda.pdb
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\FinalMusda.exe
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\FinalMusda.pdb
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\AForge.dll
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\Emgu.CV.UI.dll
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\Emgu.CV.UI.GL.dll
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\Emgu.CV.World.dll
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\EntityFramework.dll
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\EntityFramework.SqlServer.dll
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\MaterialSkin.dll
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\MetroFramework.Design.dll
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\MetroFramework.dll
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\MetroFramework.Fonts.dll
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\OpenTK.dll
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\OpenTK.GLControl.dll
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\ZedGraph.dll
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\AForge.xml
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\Emgu.CV.UI.xml
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\Emgu.CV.UI.GL.xml
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\Emgu.CV.World.xml
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\EntityFramework.xml
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\EntityFramework.SqlServer.xml
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\OpenTK.xml
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\OpenTK.GLControl.xml
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\ZedGraph.xml
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\de\ZedGraph.resources.dll
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\es\ZedGraph.resources.dll
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\fr\ZedGraph.resources.dll
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\hu\ZedGraph.resources.dll
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\it\ZedGraph.resources.dll
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\ja\ZedGraph.resources.dll
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\pt\ZedGraph.resources.dll
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\ru\ZedGraph.resources.dll
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\sk\ZedGraph.resources.dll
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\sv\ZedGraph.resources.dll
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\tr\ZedGraph.resources.dll
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\PRODATA\FinalMusda\FinalMusda\obj\Debug\FinalMusda.csprojResolveAssemblyReference.cache
+E:\PRODATA\FinalMusda\FinalMusda\obj\Debug\FinalMusda.AddIntructor.resources
+E:\PRODATA\FinalMusda\FinalMusda\obj\Debug\FinalMusda.AddNew.resources
+E:\PRODATA\FinalMusda\FinalMusda\obj\Debug\FinalMusda.ChildrenCorner.resources
+E:\PRODATA\FinalMusda\FinalMusda\obj\Debug\FinalMusda.line.resources
+E:\PRODATA\FinalMusda\FinalMusda\obj\Debug\FinalMusda.InstructorDetails.resources
+E:\PRODATA\FinalMusda\FinalMusda\obj\Debug\FinalMusda.iTechMessageBox.resources
+E:\PRODATA\FinalMusda\FinalMusda\obj\Debug\FinalMusda.Main.resources
+E:\PRODATA\FinalMusda\FinalMusda\obj\Debug\FinalMusda.MainInterface.resources
+E:\PRODATA\FinalMusda\FinalMusda\obj\Debug\FinalMusda.Panel.panelTwo.resources
+E:\PRODATA\FinalMusda\FinalMusda\obj\Debug\FinalMusda.pnlTwo.resources
+E:\PRODATA\FinalMusda\FinalMusda\obj\Debug\FinalMusda.PrintChildren.resources
+E:\PRODATA\FinalMusda\FinalMusda\obj\Debug\FinalMusda.Properties.Resources.resources
+E:\PRODATA\FinalMusda\FinalMusda\obj\Debug\FinalMusda.csproj.GenerateResource.Cache
+E:\PRODATA\FinalMusda\FinalMusda\obj\Debug\RdlCompile.cache
+E:\PRODATA\FinalMusda\FinalMusda\obj\Debug\RdlCompile.compiled
+E:\PRODATA\FinalMusda\FinalMusda\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\PRODATA\FinalMusda\FinalMusda\obj\Debug\FinalMusda.DirectorCorner.resources
+E:\PRODATA\FinalMusda\FinalMusda\obj\Debug\FinalMusda.Role.resources
